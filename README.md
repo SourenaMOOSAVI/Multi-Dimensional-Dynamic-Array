@@ -1,5 +1,5 @@
 # Multi-Dimensional-Dynamic-Array
-Creating multidimensional dynamic arrays using two methods; `std::vector` and pointer
+## Creating multidimensional dynamic arrays using two methods; `std::vector` and pointer.
 
 This repository contains the solution to creating multi dimensional dynamic arrays using `std::vector` and dynamic arrays.
 The idea is to define the size of the array at run time and not compile time.
